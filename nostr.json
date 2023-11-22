@@ -2,5 +2,22 @@
   "names": {
     "profxadke": "0a4bc33dbb4b63980b586b6d7e76f4d28cfaf2b7c39829df2da789aa2d71efb2",
     "_": "0a4bc33dbb4b63980b586b6d7e76f4d28cfaf2b7c39829df2da789aa2d71efb2"
+  },
+  "relays": {
+    "0a4bc33dbb4b63980b586b6d7e76f4d28cfaf2b7c39829df2da789aa2d71efb2": [
+      "wss://relayable.org/",
+      "wss://relay.mostr.pub/",
+      "wss://relay.damus.io/",
+      "wss://relay.nostr.band/",
+      "wss://relay.snort.social/",
+      "wss://nostr-pub.wellorder.net/",
+      "wss://offchain.pub/",
+      "wss://nostr.fmt.wiz.biz/",
+      "wss://nos.lol/",
+      "wss://brb.io/",
+      "wss://nostr.oxtr.dev/",
+      "wss://nostr.mutinywallet.com/",
+      "wss://hk.purplerelay.com/"
+    ]
   }
 }
