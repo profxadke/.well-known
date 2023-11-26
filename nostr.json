@@ -1,10 +1,28 @@
 {
   "names": {
     "profxadke": "0a4bc33dbb4b63980b586b6d7e76f4d28cfaf2b7c39829df2da789aa2d71efb2",
+    "bot": "ef16f8ff83c94a70d31b6a75195e6967f16a733b1888621f739f0356c8424cdf",
     "_": "0a4bc33dbb4b63980b586b6d7e76f4d28cfaf2b7c39829df2da789aa2d71efb2"
   },
   "relays": {
     "0a4bc33dbb4b63980b586b6d7e76f4d28cfaf2b7c39829df2da789aa2d71efb2": [
+      "wss://relayable.org/",
+      "wss://relay.mostr.pub/",
+      "wss://relay.damus.io/",
+      "wss://relay.nostr.band/",
+      "wss://relay.snort.social/",
+      "wss://purplepag.es",
+      "wss://nostr-pub.wellorder.net/",
+      "wss://nostr.lu.ke",
+      "wss://offchain.pub/",
+      "wss://nostr.fmt.wiz.biz/",
+      "wss://nos.lol/",
+      "wss://brb.io/",
+      "wss://nostr.oxtr.dev/",
+      "wss://nostr.mutinywallet.com/",
+      "wss://hk.purplerelay.com/"
+    ],
+    "ef16f8ff83c94a70d31b6a75195e6967f16a733b1888621f739f0356c8424cdf": [
       "wss://relayable.org/",
       "wss://relay.mostr.pub/",
       "wss://relay.damus.io/",
